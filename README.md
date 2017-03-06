@@ -7,7 +7,7 @@ i. Web based application for online browsing and search of menu aggregated from 
 ii. Customers can order food delivery online. Orders are to be forwarded to respective restaurants, who will deliver the food and bill the customers.
 Users of the System:  A. System Administrator   B. Restaurants          C. Customers
 
-++ Functional Requirements:
+++ Functionalities:
 i. The system provides an entry page which will be the home page after login. The entry page displays restaurant information, search and browse by category.
 ii. The system provides a restaurant/customer registration module.
 iii. The system allows customers to place orders and track their orders through different stages of delivery.
