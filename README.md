@@ -1,4 +1,4 @@
-This is an assignment done as the part of the curriculum of the course, Database Managaement Systems
+This is an assignment done as the part of the curriculum of the course, Database Management Systems
 
 The project is named Delicious which acts as a bridge between users and restaurants. 
 
